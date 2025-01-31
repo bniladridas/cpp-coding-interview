@@ -15,7 +15,7 @@ A web application built with Svelte to showcase and interact with C++ coding int
 #### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cpp-coding-interview.git
+git clone https://github.com/bniladridas/cpp-coding-interview.git
 
 # Navigate to the project directory
 cd cpp-coding-interview
